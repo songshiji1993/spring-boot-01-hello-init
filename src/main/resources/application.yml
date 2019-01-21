@@ -1,0 +1,16 @@
+emp:
+  lastName: songshiji
+  age: 28
+  salary: 4655
+  boss: true
+  birthday: 1993/11/22
+  map:
+    key1: value1
+    key2: value2
+  list:
+    - one
+    - two
+    - three
+  forte:
+    name: java
+    time: 8

@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ImportResource;
 
 
-@ImportResource(locations  = {"classpath:spring01.xml"}) //使用xml配置
+//@ImportResource(locations  = {"classpath:spring01.xml"}) //使用xml配置
 @SpringBootApplication
 public class   SpringBoot01HelloInitApplication {
 
